@@ -91,10 +91,11 @@
         {
           "name": "answer",
           "label": "Answer",
-          "type": "markdown",
+          "type": "string",
           "value": "",
           "defaultValue": ""
         }
+
       ]
     }
 
