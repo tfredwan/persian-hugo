@@ -46,6 +46,7 @@
       "type": "string",
       "value": "This is meta description.",
       "isIgnored": false,
+      "isRequired": true,
       "defaultValue": "This is meta description."
     },
     {
