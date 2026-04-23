@@ -29,7 +29,11 @@ faqs:
       et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu
       augue.
 ---
-This is the end of it all. Where we are in nature today is something we never ask. Do we really belong here, or have we simply become an invasive force that has forgotten its origins?
+# This is the end of it all.&#x20;
+
+​
+
+Where we are in nature today is something we never ask. Do we really belong here, or have we simply become an invasive force that has forgotten its origins?
 
 Come to think of it, we are merely a biological anomaly—perhaps even a cancer—that has, over the centuries, spread viciously and without mercy. We have moved across the face of this planet like a fever, destroying every cell of the ecosystem one by one. We consume, we extract, and we expand, driven by a primitive hunger for "progress" that ignores the very life-support systems that sustain us. We have reached a point where we are making this world so hostile that it may soon become uninhabitable even for ourselves. In our quest to conquer nature, we are ensuring our own demise.
 
@@ -40,5 +44,3 @@ As we pave over the last of the wild spaces, we are beginning to realize the ter
 The tragedy of the human condition is that we possess the intelligence to understand our impact, yet we lack the collective wisdom to change our trajectory. We continue to build skyscrapers that reach for the heavens while the ground beneath us turns to dust. We celebrate our technological triumphs—artificial intelligence, space exploration, genetic engineering—while the biodiversity of our own home vanishes at an unprecedented rate.
 
 Perhaps it is time to stop asking where we belong and start asking what we owe. If we are to survive, we must move past the metaphor of the cancer and find a way to become a symbiotic partner to the planet once again. We must learn to listen to the silence of the woods, to respect the boundaries of the natural world, and to recognize that our survival is inextricably linked to the survival of the humblest bee and the oldest tree. If we fail to make this transition, nature will not miss us. It will simply heal itself long after we are gone, reclaiming the concrete jungles we leave behind and turning our steel monuments back into rust and earthwefwefwef
-
-​
