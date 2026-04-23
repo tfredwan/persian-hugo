@@ -22,6 +22,32 @@
         <h1 class="mb-4">{{ .Title }}</h1>
         <div class="content">{{.Content}}</div>
 
+        {{ if .Params.faqs }}
+        <section class="faq-section" style="margin-top: 4rem; border-top: 1px solid #eee; padding-top: 3rem;">
+          <h2 style="font-family: 'Playfair Display', serif; font-weight: 700; margin-bottom: 2rem; text-align: center;">Frequently Asked Questions</h2>
+          <div style="max-width: 800px; margin: 0 auto;">
+            {{ range .Params.faqs }}
+            <details style="margin-bottom: 1.5rem; border-radius: 12px; border: 1px solid #eee; transition: all 0.3s ease; box-shadow: 0 4px 6px rgba(0,0,0,0.02);">
+              <summary style="padding: 1.25rem 1.5rem; cursor: pointer; font-weight: 600; color: #222; display: flex; justify-content: space-between; align-items: center; list-style: none; outline: none;">
+                <span>{{ .question }}</span>
+                <span class="faq-icon" style="font-size: 1.2rem; transition: transform 0.3s;">+</span>
+              </summary>
+              <div style="padding: 0 1.5rem 1.5rem; color: #555; line-height: 1.6; font-size: 0.95rem;">
+                {{ .answer | markdownify }}
+              </div>
+            </details>
+            {{ end }}
+          </div>
+        </section>
+
+        <style>
+          summary::-webkit-details-marker { display: none; }
+          details[open] { background-color: #fbfbfb; border-color: #222; }
+          details[open] .faq-icon { transform: rotate(45deg); }
+          details:hover { border-color: #222; }
+        </style>
+        {{ end }}
+
         <div class="text-center mt-5">
           <ul class="list-inline post-meta d-inline-block mr-4">
             <li class="list-inline-item"><i class="ti-tag"></i></li>

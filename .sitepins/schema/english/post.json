@@ -72,6 +72,31 @@
       "value": false,
       "isIgnored": false,
       "defaultValue": false
+    },
+    {
+      "name": "faqs",
+      "label": "FAQs",
+      "type": "Array",
+      "value": [],
+      "isIgnored": false,
+      "defaultValue": "",
+      "fields": [
+        {
+          "name": "question",
+          "label": "Question",
+          "type": "string",
+          "value": "",
+          "defaultValue": ""
+        },
+        {
+          "name": "answer",
+          "label": "Answer",
+          "type": "markdown",
+          "value": "",
+          "defaultValue": ""
+        }
+      ]
     }
+
   ]
 }
