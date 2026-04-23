@@ -6,3 +6,6 @@ languageName = "En"
 languageCode = "en-us"
 # post pagination
 pagination.pagerSize = "5"
+
+[params]
+copyright = "Vibe-Coded by Redwan The Theme-Fisher"

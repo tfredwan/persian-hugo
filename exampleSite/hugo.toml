@@ -38,7 +38,7 @@ search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Vibe-Coded by Redwan The Theme-Fisher"
 
 # Preloader
 [params.preloader]
